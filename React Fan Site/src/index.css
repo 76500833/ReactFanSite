@@ -1,0 +1,77 @@
+.real-facts{
+  font-size: 22.25px;
+  font-weight: 700px;;
+  line-height: 26.93px;
+  color: #61DAFB;
+  margin-left: 10px;
+}
+
+.nav {
+  height: 91px;
+  background-color: #21222A;
+  margin-bottom: auto;
+  display: flex;
+  width: 100%;
+  align-items: center;
+
+}
+
+.nav-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 28.93px;
+    margin-left: 26px;
+  margin-top: 31px;
+  margin-bottom: 31px;
+  font-family: "Inter", sans-serif;
+  width: 158;
+}
+
+img {
+  width: 28.93px;
+  height: 28.93px;
+
+}
+body {
+  margin: 0;
+  padding: 0;
+  /* height: 100%; */
+  background-color: #282D35;
+  color: white;
+  font-family: "Inter", sans-serif;
+}
+
+.header {
+font-weight: 700;
+line-height: 47.27px;
+letter-spacing: -0.05em;
+text-align: left;
+margin-left: 27px;
+margin-top: 50px;
+letter: -5%;
+}
+
+.list {
+  font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 19.36px;
+text-align: left;
+margin-top: 40px;
+margin-left: 50px;
+}
+
+li {
+  font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 19.36px;
+text-align: left;
+margin-top:20px;
+}
+
+li::marker {
+  font-size: 1.4rem;
+  color: #61DAFB;
+}
